@@ -1,0 +1,8 @@
+{
+  "name": "NATALI elektro-epil",
+  "description": "Premium-Studio für dauerhafte Haarentfernung, Fach-Schulung & Umschulung in Havixbeck (Münsterland).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
